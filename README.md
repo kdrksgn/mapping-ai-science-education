@@ -2,7 +2,7 @@
 
 This repository contains the data, code, and figures used in the article:
 
-**Kesgin, K. (2025). Mapping and Modeling the Role of Artificial Intelligence in Science Education: From Bibliometrics to Classroom Integration.**
+**Kesgin, K. (2025). Mapping and Modeling the Role of Artificial Intelligence in Science Education: From Bibliometrics to Classroom Integration. **
 
 ## Contents
 - `data/`: Raw and processed datasets (Scopus, WoS, TR Dizin exports).
